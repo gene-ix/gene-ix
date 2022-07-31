@@ -1,5 +1,13 @@
 # Welcome!! 👋
 
+## Languages / Frameworks / Libraries / CMS
+
+C#, HTML, CSS(SCSS, Bootstrap), Javascript(jQuery, React.js), PHP, SQL, Wordpress, Python
+
+## National Anthem
+
+🇦🇺 🇧🇷 🇨🇦 🇨🇳 🇰🇵 🇩🇪 🇩🇰 🇪🇸 🇫🇮 🇫🇷 🇬🇧
+
 <!--
 **gene-ix/gene-ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
