@@ -1,18 +1,22 @@
-# Welcome!! 👋
+## 慎重さ
 
-## Skills
+深い洞察力と、かなり強めの他人軸。
 
-### Language
+## 収集心
 
-C#, HTML, CSS(SCSS, Bootstrap), Javascript(jQuery, React.js), PHP, SQL, Wordpress, Python
+とりあえず何でも記録してみて。
 
-### National Anthem
+## 分析志向
 
-🇦🇺 🇧🇷 🇨🇦 🇨🇳 🇨🇷 🇩🇪 🇩🇰 🇪🇸 🇫🇮 🇫🇷 🇬🇧 🇬🇱 🇮🇱 🇮🇸 🇮🇹 🇯🇲 🇯🇵 🇰🇵 🇰🇷 🇱🇻 🇲🇳 🇫🇷 🇳🇿 🇳🇴 🇷🇺 🇸🇦 🇸🇪 🇹🇼 🇺🇸 🇿🇦
+データが集まったらパターンを調べてみる。
 
-## Career
+## 信念
 
-## Intention
+デスクトップとスマホの通知欄は常に空にしておきたい。
+
+## 未来志向
+
+新しい技術や考え方に興味があります。
 
 <!--
 **gene-ix/gene-ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
