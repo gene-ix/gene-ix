@@ -1,12 +1,12 @@
-## WELCOME👋
+## 👋WELCOME
 
 現在はWEB系の職場でフロントエンド寄りの仕事をしています。
 
-## POLICY📝
+## 🍎POLICY
 
-シンプルさを最重要視し、少ない手数で最大の火力を得る。  
-デスクトップにアイコンは無く、スマホの通知欄も常に空。  
-「コードは300行まで」の自分ルールで、コツコツ開発しています。
+* シンプルさを重視します。
+* デスクトップには何もなく、スマホの通知欄も常に空です。
+* 「コードは300行まで」の自分ルールで開発しています。
 
 <!--
 **gene-ix/gene-ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
