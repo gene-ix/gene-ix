@@ -5,9 +5,9 @@
 
 ## 🍎POLICY
 
-* シンプルさを大切にします。
-* デスクトップには何もなく、スマホの通知欄も常に空です。
-* 「コードは300行まで」の自分ルールで開発しています。
+シンプルさを大切にします。  
+デスクトップには何もなく、スマホの通知欄も常に空です。  
+「コードは300行まで」の自分ルールで開発しています。
 
 <!--
 **gene-ix/gene-ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
