@@ -19,7 +19,8 @@ https://gene-ix.github.io/2038/
 https://gene-ix.github.io/dot-clock/  
 https://gene-ix.github.io/dot-clock2/  
 https://gene-ix.github.io/color-clock1/  
-
+https://gene-ix.github.io/thisyear/  
+https://gene-ix.github.io/simplecalendar/  
 <!--
 **gene-ix/gene-ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
